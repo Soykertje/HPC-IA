@@ -1,0 +1,3 @@
+/home/andres/Documents/NOVENO_SEMESTRE/HPC/RegresionLineal/Debug/CMakeFiles/rebuild_cache.dir
+/home/andres/Documents/NOVENO_SEMESTRE/HPC/RegresionLineal/Debug/CMakeFiles/edit_cache.dir
+/home/andres/Documents/NOVENO_SEMESTRE/HPC/RegresionLineal/Debug/CMakeFiles/RegresionLineal.dir

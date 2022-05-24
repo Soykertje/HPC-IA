@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/RegresionLineal.dir/main.cpp.o CMakeFiles/RegresionLineal.dir/linearregresion.cpp.o CMakeFiles/RegresionLineal.dir/extraerdata/extraerdata.cpp.o -o RegresionLineal 

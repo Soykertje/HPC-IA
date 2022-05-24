@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andres/Documents/NOVENO_SEMESTRE/HPC/RegresionLineal/extraerdata/extraerdata.h
+string
+-
+vector
+-
+eigen3/Eigen/Dense
+-
+
+/home/andres/Documents/NOVENO_SEMESTRE/HPC/RegresionLineal/linearregresion.h
+string
+-
+vector
+-
+eigen3/Eigen/Dense
+-
+
+/home/andres/Documents/NOVENO_SEMESTRE/HPC/RegresionLineal/main.cpp
+extraerdata/extraerdata.h
+/home/andres/Documents/NOVENO_SEMESTRE/HPC/RegresionLineal/extraerdata/extraerdata.h
+linearregresion.h
+/home/andres/Documents/NOVENO_SEMESTRE/HPC/RegresionLineal/linearregresion.h
+iostream
+-
+eigen3/Eigen/Dense
+-
+vector
+-
+
